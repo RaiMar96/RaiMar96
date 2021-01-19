@@ -1,4 +1,4 @@
-[![Header](https://github.com/RaiMar96/RaiMar96/Banner - GITHUB.png "Header")]()
+[![Header](https://raw.githubusercontent.com/RaiMar96/RaiMar96/main/Banner%20-%20GITHUB(1).png "Header")]()
 
 ## 📫 Connect with me 
 [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/mario-raiti-9177b5181/) 
